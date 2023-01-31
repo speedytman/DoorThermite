@@ -1,0 +1,7 @@
+name: DoorThermite
+version: '${project.version}'
+main: com.speedytman.doorthermite.DoorThermite
+api-version: 1.19
+authors: [ speedytman ]
+description: Thermite Mini-Game for Unlocking Doors
+website: speedytman.com
